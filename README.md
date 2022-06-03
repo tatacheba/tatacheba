@@ -1,16 +1,56 @@
-### Hi there 👋
+### Меня зовут Татьяна Чеботарь.
 
-<!--
-**tatacheba/tatacheba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Коммерческий опыт в тестировании с июля 2019 года.
 
-Here are some ideas to get you started:
+## Образование, курсы    
+<table width="100%" border='0'>
+    <tr> 
+    <td valign="middle">Санкт-Петербургский университет кино и телевидения.</br>Факультет приборов и систем кино и телевидения.</br>Инженер.</td>
+    <td width="10%" valign="bottom"><img src="/images/kit.png"></td>
+    </tr>
+    <tr>
+    <td valign="middle">ООО «ГикБреинс»</br>
+     Тестирование программного обеспечения </br> 
+     Автоматизация тестирования программного обспечения.
+     </td>
+     <td width="10%">
+          <img src="/images/certificate_chebotar.t_testing.jpeg">
+          <img src="/images/certificate_chebotar.t_automationt.jpeg">
+     </td>
+     </tr>
+     <tr>
+     <td valign="middle">ITGit.info 
+     <a target="_blank" href="https://itgid.info">www.itgid.info</a>.</br>
+    JavaScript v.2.0</br> 
+    Методы массивов JavaScript</br>
+    ООП в JS </br>
+    Функции в JavaScript</td>
+       <td width="10%" >
+        <img src="/images/js_itgid.info.png">
+        <img src="/images/js_function_itgid.info.png">
+        <img src="/images/js_oop_itgid.info.png">
+        <img src="/images/js_array_itgid.info.png">
+        </td>
+    <tr><td valign="middle">Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>.</td><td width="10%" valign="bottom"><img src="/images/certificate_chebotar.t_qa.guru.png"></td></tr>
+   </tr>
+  </table>
+  </br>
+  
+### Дипломный проект QA.GURU
+Реализован во время обучения в Школе инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>
+#### Тестирование UI
+:link: Тестовый проект: <a target="_blank" href="https://github.com/tatacheba/autotestForNokianTyres">autotest for Nokian Tyres</a></br></br>
+![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/Selenide.png)![This is an image](/icons/Selenoid.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Jenkins.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/Telegram.png)![This is an image](/icons/Jira.png)</br></br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Тестирование REST API
+:link: Тестовый проект: <a target="_blank" href="">еееееее</a></br></br>
+![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Rest-Assured.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Jenkins.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/Telegram.png)</br></br>
+
+#### Тестирование мобильного приложения
+:link: Тестовый проект: <a target="_blank" href="">Wikipedia App</a></br></br>
+![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/Selenide.png)![This is an image](/icons/Selenoid.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/appium.png) ![This is an image](/icons/androidstudio.png)</br></br>
+
+## :anchor: Contacts
+<a target="_blank" href="https://t.me/tatianacheb"><img src="/icons/Logo.png" height="30" width="auto" title="t.me/tatianacheb"></a> 
+<a href="mailto:tanya.cheba12@gmail.com" target="blank"><img src="/icons/logo_gmail.png" height="30" width="auto" title="My Gmail"></a>    
+ 
