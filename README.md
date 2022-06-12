@@ -39,11 +39,11 @@
 ### Дипломный проект QA.GURU
 Реализован во время обучения в Школе инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>
 #### Тестирование UI
-:link: Тестовый проект: <a target="_blank" href="https://github.com/tatacheba/autotestForNokianTyres">autotest for Nokian Tyres</a></br></br>
+:link: Тестовый проект: <a target="_blank" href="https://github.com/tatacheba/autotestForNokianTyres">UI-тестирование для сайта Nokian tyres</a></br></br>
 ![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/Selenide.png)![This is an image](/icons/Selenoid.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Jenkins.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/Telegram.png)![This is an image](/icons/Jira.png)</br></br>
 
 #### Тестирование REST API
-:link: Тестовый проект: <a target="_blank" href="">еееееее</a></br></br>
+:link: Тестовый проект: <a target="_blank" href="https://github.com/tatacheba/api-test_NokianTyres"> API-тестирование для сайта Nokian tyres</a></br></br>
 ![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Rest-Assured.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Jenkins.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/Telegram.png)</br></br>
 
 #### Тестирование мобильного приложения
