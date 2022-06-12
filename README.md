@@ -35,7 +35,7 @@
    </tr>
   </table>
   </br>
-  
+  ____
 ### Дипломный проект QA.GURU
 Реализован во время обучения в Школе инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>
 #### Тестирование UI
@@ -49,6 +49,7 @@
 #### Тестирование мобильного приложения
 :link: Тестовый проект: <a target="_blank" href="https://github.com/tatacheba/emulatorMobileTests">Wikipedia App</a></br></br>
 ![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/Selenide.png)![This is an image](/icons/Selenoid.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/appium.png) ![This is an image](/icons/androidstudio.png)</br></br>
+____
 
 ## :anchor: Contacts
 <a target="_blank" href="https://t.me/tatianacheb"><img src="/icons/Logo.png" height="30" width="auto" title="t.me/tatianacheb"></a> 
