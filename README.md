@@ -53,7 +53,29 @@ ____
 ![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/Selenide.png)![This is an image](/icons/Selenoid.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/appium.png) ![This is an image](/icons/androidstudio.png)</br></br>
 ____
 
+## Language courses
+
+* [JavaRush](https://tatacheba.github.io/javarush/)
+* [ITGid.info](https://tatacheba.github.io/js_course/js_itgid.info/)
+* [HTML Academy](https://tatacheba.github.io/js_course/html-academy/)
+
+### Практические проекты реализованные в рамках курса:
+
+* [AlinDiet](https://tatacheba.github.io/Pet_project/alindiet/index.html)
+* [Beehive](https://tatacheba.github.io/Pet_project/beehive/index.html)
+* [Cafe](https://tatacheba.github.io/Pet_project/cafe/index.html)
+* [Form](https://tatacheba.github.io/Pet_project/form/index.html)
+* [Wedding Services](https://tatacheba.github.io/Pet_project/wedding_services/index.html)
+
+### Pet-project:
+
+* [Инженер-конструктор портфолио](https://tatacheba.github.io/Pet_project/design-engineer/index.html)
+* [Rantamaki](https://tatacheba.github.io/pet_project/rantamaki/index.html) 
+* [HTML5-prompt](https://tatacheba.github.io/pet_project/html5-prompt/index.html)
+
+
 ## :anchor: Contacts
 <a target="_blank" href="https://t.me/tatianacheb"><img src="/icons/Logo.png" height="30" width="auto" title="t.me/tatianacheb"></a> 
 <a href="mailto:tanya.cheba12@gmail.com" target="blank"><img src="/icons/logo_gmail.png" height="30" width="auto" title="My Gmail"></a>    
+[![HH](https://img.shields.io/badge/hh-%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-%23e1011c%20)](https://spb.hh.ru/resume/10b9a9d9ff084bdafe0039ed1f584a304c5441)
  
