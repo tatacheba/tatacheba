@@ -59,19 +59,9 @@ ____
 * [ITGid.info](https://tatacheba.github.io/js_course/js_itgid.info/)
 * [HTML Academy](https://tatacheba.github.io/js_course/html-academy/)
 
-### Практические проекты реализованные в рамках курса:
+### Portfolio
 
-* [AlinDiet](https://tatacheba.github.io/web/alindiet/index.html)
-* [Beehive](https://tatacheba.github.io/web/beehive/index.html)
-* [Cafe](https://tatacheba.github.io/web/cafe/index.html)
-* [Form](https://tatacheba.github.io/web/form/index.html)
-* [Wedding Services](https://tatacheba.github.io/web/wedding_services/index.html)
-
-### Pet-project:
-
-* [Инженер-конструктор портфолио](https://tatacheba.github.io/pet_project/design-engineer/index.html)
-* [Rantamaki](https://tatacheba.github.io/pet_project/rantamaki/index.html) 
-* [HTML5-prompt](https://tatacheba.github.io/pet_project/html5-prompt/index.html)
+* [tatacheba.github.io](https://tatacheba.github.io/)
 
 
 ## :anchor: Contacts
