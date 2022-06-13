@@ -61,15 +61,15 @@ ____
 
 ### Практические проекты реализованные в рамках курса:
 
-* [AlinDiet](https://tatacheba.github.io/Pet_project/alindiet/index.html)
-* [Beehive](https://tatacheba.github.io/Pet_project/beehive/index.html)
-* [Cafe](https://tatacheba.github.io/Pet_project/cafe/index.html)
-* [Form](https://tatacheba.github.io/Pet_project/form/index.html)
-* [Wedding Services](https://tatacheba.github.io/Pet_project/wedding_services/index.html)
+* [AlinDiet](https://tatacheba.github.io/web/alindiet/index.html)
+* [Beehive](https://tatacheba.github.io/web/beehive/index.html)
+* [Cafe](https://tatacheba.github.io/web/cafe/index.html)
+* [Form](https://tatacheba.github.io/web/form/index.html)
+* [Wedding Services](https://tatacheba.github.io/web/wedding_services/index.html)
 
 ### Pet-project:
 
-* [Инженер-конструктор портфолио](https://tatacheba.github.io/Pet_project/design-engineer/index.html)
+* [Инженер-конструктор портфолио](https://tatacheba.github.io/pet_project/design-engineer/index.html)
 * [Rantamaki](https://tatacheba.github.io/pet_project/rantamaki/index.html) 
 * [HTML5-prompt](https://tatacheba.github.io/pet_project/html5-prompt/index.html)
 
