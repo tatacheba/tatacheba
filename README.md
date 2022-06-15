@@ -36,6 +36,8 @@
   </table>
   </br>
   
+  [![codewars](https://www.codewars.com/users/Tata-12/badges/micro)](https://www.codewars.com/users/Tata-12) 
+
 ____
 
 ### Дипломный проект QA.GURU
