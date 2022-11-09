@@ -57,20 +57,13 @@ ____
 
 ## Portfolio 
 
-
-### Language courses
-
-* [JavaRush](https://tatacheba.github.io/javarush/)
-* [ITGid.info](https://tatacheba.github.io/js_course/js_itgid.info/)
-* [HTML Academy](https://tatacheba.github.io/js_course/html-academy/)
-
 ### Web
 
 * [tatacheba.github.io](https://tatacheba.github.io/)
 
 
 ## :anchor: Contacts
-<a target="_blank" href="https://t.me/tatianacheb"><img src="/icons/Logo.png" height="30" width="auto" title="t.me/tatianacheb"></a> 
-<a href="mailto:tanya.cheba12@gmail.com" target="blank"><img src="/icons/logo_gmail.png" height="30" width="auto" title="My Gmail"></a>    
-[![HH](https://img.shields.io/badge/hh-%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-%23e1011c%20)](https://spb.hh.ru/resume/10b9a9d9ff084bdafe0039ed1f584a304c5441)
+<li><a target="_blank" href="https://t.me/tatianacheb"><img src="/icons/Logo.png" height="30" width="auto" title="t.me/tatianacheb"></a> </li>
+<li><a href="mailto:tanya.cheba12@gmail.com" target="_blank"><img src="/icons/logo_gmail.png" height="30" width="auto" title="My Gmail"></a></li>    
+<li>[![HH](https://img.shields.io/badge/hh-%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-%23e1011c%20)](https://spb.hh.ru/resume/10b9a9d9ff084bdafe0039ed1f584a304c5441)</li>
  
