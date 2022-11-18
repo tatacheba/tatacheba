@@ -31,7 +31,7 @@
         <img src="/images/js_oop_itgid.info.png">
         <img src="/images/js_array_itgid.info.png">
         </td>
-    <tr><td valign="middle">Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>.</td><td width="10%" valign="bottom"><img src="/images/certificate_chebotar.t_qa.guru.png"></td></tr>
+    <tr><td valign="middle">Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>.</td><td width="10%" valign="bottom"><img src="/images/chebotar.t_qa.guru.jpg"></td></tr>
    </tr>
   </table>
   </br>
