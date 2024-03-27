@@ -1,18 +1,17 @@
-### Меня зовут Татьяна Чеботарь.
+### My name is Tatiana Chebotar.
 
-Коммерческий опыт в тестировании с июля 2019 года.
+Commercial experience in testing since July 2019.
 
-## Образование, курсы
+## Education, courses
 
 <table width="100%" border='0'>
     <tr> 
-    <td valign="middle">Санкт-Петербургский университет кино и телевидения.</br>Факультет приборов и систем кино и телевидения.</br>Инженер.</td>
+    <td valign="middle">St. Petersburg University of Film and Television.</td>
     <td width="10%" valign="bottom"><img src="/images/kit.png"></td>
     </tr>
     <tr>
-    <td valign="middle">ООО «ГикБреинс»</br>
-     Тестирование программного обеспечения </br> 
-     Автоматизация тестирования программного обспечения.
+    <td valign="middle">Geekbrains</br>
+    Software testing </br> 
      </td>
      <td width="10%">
           <img src="/images/certificate_chebotar.t_testing.jpeg">
@@ -23,20 +22,17 @@
      <td valign="middle">ITGit.info 
      <a target="_blank" href="https://itgid.info">www.itgid.info</a>.</br>
     JavaScript v.2.0</br> 
-    Методы массивов JavaScript</br>
-    ООП в JS </br>
-    Функции в JavaScript</td>
        <td width="10%" >
         <img src="/images/js_itgid.info.png">
         <img src="/images/js_function_itgid.info.png">
         <img src="/images/js_oop_itgid.info.png">
         <img src="/images/js_array_itgid.info.png">
         </td>
-    <tr><td valign="middle">Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>.</br>
-    Автоматизация тестирования</td><td width="10%" valign="bottom"><img src="/images/chebotar.t_qa.guru.jpg"></td></tr>
+    <tr><td valign="middle">QA.GURU<a target="_blank" href="https://qa.guru">qa.guru</a>.</br>
+     QA Automation</td><td width="10%" valign="bottom"><img src="/images/chebotar.t_qa.guru.jpg"></td></tr>
    </tr>
    <tr><td valign="middle">STEPIK.org <a target="_blank" href="https://stepik">www.stepik.org</a>.</br>
-   Интерактивный тренажер SQL</td><td width="10%" valign="bottom"><img src="/images/stepik_SQL_chebotar.t.jpeg"></td></tr>
+   SQL Trainer</td><td width="10%" valign="bottom"><img src="/images/stepik_SQL_chebotar.t.jpeg"></td></tr>
    </tr>
   </table>
   </br>
@@ -45,23 +41,23 @@
 
 ---
 
-### Дипломный проект QA.GURU
+### Project QA.GURU
 
-Реализован во время обучения в Школе инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>
+Implemented during studies at the School of Automation Testing Engineers <a target="_blank" href="https://qa.guru">qa.guru</a>
 
-#### Тестирование UI
+#### UI testing
 
-:link: Тестовый проект: <a target="_blank" href="https://github.com/tatacheba/autotestForNokianTyres">UI-тестирование для сайта Nokian tyres</a></br></br>
+:link: Project: <a target="_blank" href="https://github.com/tatacheba/autotestForNokianTyres">UI testing Nokian tyres</a></br></br>
 ![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/Selenide.png)![This is an image](/icons/Selenoid.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Jenkins.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/Telegram.png)![This is an image](/icons/Jira.png)</br></br>
 
-#### Тестирование REST API
+#### REST API testing
 
-:link: Тестовый проект: <a target="_blank" href="https://github.com/tatacheba/api-test_NokianTyres"> API-тестирование для сайта Nokian tyres</a></br></br>
+:link: Project: <a target="_blank" href="https://github.com/tatacheba/api-test_NokianTyres">API testing Nokian tyres</a></br></br>
 ![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Rest-Assured.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Jenkins.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/Telegram.png)</br></br>
 
-#### Тестирование мобильного приложения
+#### Mobile application testing Wikipedia
 
-:link: Тестовый проект: <a target="_blank" href="https://github.com/tatacheba/emulatorMobileTests">Wikipedia App</a></br></br>
+:link:Project: <a target="_blank" href="https://github.com/tatacheba/emulatorMobileTests">Wikipedia App</a></br></br>
 ![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/Selenide.png)![This is an image](/icons/Selenoid.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/appium.png) ![This is an image](/icons/androidstudio.png)</br></br>
 
 ---
