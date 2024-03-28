@@ -28,7 +28,7 @@ Commercial experience in testing since July 2019.
         <img src="/images/js_oop_itgid.info.png">
         <img src="/images/js_array_itgid.info.png">
         </td>
-    <tr><td valign="middle">QA.GURU<a target="_blank" href="https://qa.guru">qa.guru</a>.</br>
+    <tr><td valign="middle">QA.GURU <a target="_blank" href="https://qa.guru">qa.guru</a>.</br>
      QA Automation</td><td width="10%" valign="bottom"><img src="/images/chebotar.t_qa.guru.jpg"></td></tr>
    </tr>
    <tr><td valign="middle">STEPIK.org <a target="_blank" href="https://stepik">www.stepik.org</a>.</br>
