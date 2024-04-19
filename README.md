@@ -23,7 +23,7 @@ Commercial experience in testing since July 2019.
      <a target="_blank" href="https://itgid.info">www.itgid.info</a>.</br>
     JavaScript v.2.0</br> 
        <td width="10%" >
-        <img src="/images/js_itgid.info.png">
+        <a target="_blank" href="https://itgid.info/ru/certificate/view?Certificate[uid]=6vn1n39qwky1"><img src="/images/js_itgid.info.png" ></a>
         <img src="/images/js_function_itgid.info.png">
         <img src="/images/js_oop_itgid.info.png">
         <img src="/images/js_array_itgid.info.png">
@@ -66,7 +66,7 @@ Implemented during studies at the School of Automation Testing Engineers <a targ
 
 ### Web
 
-- [tatacheba.github.io](https://tatacheba.github.io/)
+-   [tatacheba.github.io](https://tatacheba.github.io/)
 
 ## :anchor: Contacts
 
