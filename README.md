@@ -13,7 +13,7 @@ Commercial experience in testing since July 2019.
     <td valign="middle">Geekbrains</br>
     Software testing </br> 
      </td>
-     <td width="10%">
+     <td width="30%">
           <img src="/images/certificate_chebotar.t_testing.jpeg">
           <img src="/images/certificate_chebotar.t_automationt.jpeg">
      </td>
@@ -24,7 +24,7 @@ Commercial experience in testing since July 2019.
     JavaScript v.2.0</br> 
        <td width="10%" >
         <a  href="https://itgid.info/ru/certificate/view?Certificate[uid]=6vn1n39qwky1" target="_blank">
-            <img src="/images/js_itgid.info.png" width="1000" ></a>
+            <img src="/images/js_itgid.info.png" width="500" ></a>
         <a  href="https://itgid.info/ru/certificate/view?Certificate[uid]=5f1u8vs5mu25" target="_blank"> 
             <img src="/images/js_function_itgid.info.png" width="500"></a>
         <a  href="https://itgid.info/ru/certificate/view?Certificate[uid]=yszqx1dfy9f2" target="_blank">
