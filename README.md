@@ -22,19 +22,37 @@ Commercial experience in testing since July 2019.
      <td valign="middle">ITGit.info 
      <a target="_blank" href="https://itgid.info">www.itgid.info</a>.</br>
     JavaScript v.2.0</br> 
-       <td width="30%" >
-        <a  href="https://itgid.info/ru/certificate/view?Certificate[uid]=6vn1n39qwky1" target="_blank">
-            <img src="/images/js_itgid.info.png" width="30" ></a>
-        <a  href="https://itgid.info/ru/certificate/view?Certificate[uid]=5f1u8vs5mu25" target="_blank"> 
-            <img src="/images/js_function_itgid.info.png" width="30"></a>
-        <a  href="https://itgid.info/ru/certificate/view?Certificate[uid]=yszqx1dfy9f2" target="_blank">
-            <img src="/images/js_oop_itgid.info.png" width="30"></a>
-        <a  href="https://itgid.info/ru/certificate/view?Certificate[uid]=59yhqxn1mt" target="_blank">
-            <img src="/images/js_array_itgid.info.png" width="30"></a>
-                <a  href="https://itgid.info/ru/certificate/view?Certificate[uid]=tjp7reqwd1ej" target="_blank">
-            <img src="/images/nodeJS_itgid.info.png" width="30"></a>
-                       <a  href="https://itgid.info/ru/certificate/view?Certificate[uid]=1a4k7azy5ts3" target="_blank">
-            <img src="/images/react_itgid.info.png" width="30"></a>
+       <td width="30%">
+            <a href="https://itgid.info/ru/certificate/view?Certificate[uid]=6vn1n39qwky1" rel="nofollow">
+                <img src="/tatacheba/tatacheba/raw/main/images/js_itgid.info.png" width="30" style="max-width: 100%;">
+            </a>
+        </td>
+        <td width="30%">
+            <a href="https://itgid.info/ru/certificate/view?Certificate[uid]=5f1u8vs5mu25" rel="nofollow"> 
+                <img src="/tatacheba/tatacheba/raw/main/images/js_function_itgid.info.png" width="30" style="max-width: 100%;">
+            </a>
+        </td>
+        <td width="30%">
+            <a href="https://itgid.info/ru/certificate/view?Certificate[uid]=yszqx1dfy9f2" rel="nofollow">
+                <img src="/tatacheba/tatacheba/raw/main/images/js_oop_itgid.info.png" width="30" style="max-width: 100%;">
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td width="30%">
+            <a href="https://itgid.info/ru/certificate/view?Certificate[uid]=59yhqxn1mt" rel="nofollow">
+                <img src="/tatacheba/tatacheba/raw/main/images/js_array_itgid.info.png" width="30" style="max-width: 100%;">
+            </a>
+        </td>
+        <td width="30%">
+            <a href="https://itgid.info/ru/certificate/view?Certificate[uid]=tjp7reqwd1ej" rel="nofollow">
+                <img src="/tatacheba/tatacheba/raw/main/images/nodeJS_itgid.info.png" width="30" style="max-width: 100%;">
+            </a>
+        </td>
+        <td width="30%">
+            <a href="https://itgid.info/ru/certificate/view?Certificate[uid]=1a4k7azy5ts3" rel="nofollow">
+                <img src="/tatacheba/tatacheba/raw/main/images/react_itgid.info.png" width="30" style="max-width: 100%;">
+            </a>
         </td>
     <tr><td valign="middle">QA.GURU <a target="_blank" href="https://qa.guru">qa.guru</a>.</br>
      QA Automation</td><td width="30%" valign="bottom"><img src="/images/chebotar.t_qa.guru.jpg"></td></tr>
