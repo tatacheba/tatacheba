@@ -7,7 +7,7 @@ Commercial experience in testing since July 2019.
 <table width="100%" border='0'>
     <tr> 
     <td valign="middle">St. Petersburg University of Film and Television.</td>
-    <td width="10%" valign="bottom"><img src="/images/kit.png"></td>
+    <td width="30%" valign="bottom"><img src="/images/kit.png"></td>
     </tr>
     <tr>
     <td valign="middle">Geekbrains</br>
@@ -22,7 +22,7 @@ Commercial experience in testing since July 2019.
      <td valign="middle">ITGit.info 
      <a target="_blank" href="https://itgid.info">www.itgid.info</a>.</br>
     JavaScript v.2.0</br> 
-       <td width="10%" >
+       <td width="30%" >
         <a  href="https://itgid.info/ru/certificate/view?Certificate[uid]=6vn1n39qwky1" target="_blank">
             <img src="/images/js_itgid.info.png" width="30" ></a>
         <a  href="https://itgid.info/ru/certificate/view?Certificate[uid]=5f1u8vs5mu25" target="_blank"> 
@@ -37,10 +37,10 @@ Commercial experience in testing since July 2019.
             <img src="/images/react_itgid.info.png" width="30"></a>
         </td>
     <tr><td valign="middle">QA.GURU <a target="_blank" href="https://qa.guru">qa.guru</a>.</br>
-     QA Automation</td><td width="10%" valign="bottom"><img src="/images/chebotar.t_qa.guru.jpg"></td></tr>
+     QA Automation</td><td width="30%" valign="bottom"><img src="/images/chebotar.t_qa.guru.jpg"></td></tr>
    </tr>
    <tr><td valign="middle">STEPIK.org <a target="_blank" href="https://stepik">www.stepik.org</a>.</br>
-   SQL Trainer</td><td width="10%" valign="bottom"><img src="/images/stepik_SQL_chebotar.t.jpeg"></td></tr>
+   SQL Trainer</td><td width="30%" valign="bottom"><img src="/images/stepik_SQL_chebotar.t.jpeg"></td></tr>
    </tr>
   </table>
   </br>
