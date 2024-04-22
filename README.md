@@ -7,7 +7,7 @@ Commercial experience in testing since July 2019.
 <table width="100%" border='0'>
     <tr> 
     <td valign="middle">St. Petersburg University of Film and Television.</td>
-    <td width="30%" valign="bottom"><img src="/images/kit.png"></td>
+    <td width="30%" ><img src="/images/kit.png"></td>
     </tr>
     <tr>
     <td valign="middle">Geekbrains</br>
