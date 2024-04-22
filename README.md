@@ -11,7 +11,7 @@ Commercial experience in testing since July 2019.
     </tr>
     <tr>
     <td valign="middle">Geekbrains</br>
-    Software testing </br> 
+    Software testing 2019</br> 
      </td>
      <td width="40%">
           <img src="/images/certificate_chebotar.t_testing.jpeg">
@@ -21,7 +21,7 @@ Commercial experience in testing since July 2019.
      <tr>
      <td valign="middle">ITGit.info 
      <a target="_blank" href="https://itgid.info">www.itgid.info</a>.</br>
-    JavaScript, Node.JS, React.JS</br> 
+    JavaScript 2022, Node.JS 2023, React.JS 2024</br> 
      <td width="40%" style="display: flex; flex-wrap: wrap;">
     <div style="width: 100%;">
         <a href="https://itgid.info/ru/certificate/view?Certificate[uid]=6vn1n39qwky1" target="_blank">
@@ -36,10 +36,10 @@ Commercial experience in testing since July 2019.
     </div>
 </td>
     <tr><td valign="middle">QA.GURU <a target="_blank" href="https://qa.guru">qa.guru</a>.</br>
-     QA Automation</td><td width="30%" valign="bottom"><img src="/images/chebotar.t_qa.guru.jpg"></td></tr>
+     QA Automation 2022</td><td width="30%" valign="bottom"><img src="/images/chebotar.t_qa.guru.jpg"></td></tr>
    </tr>
    <tr><td valign="middle">STEPIK.org <a target="_blank" href="https://stepik">www.stepik.org</a>.</br>
-   SQL Trainer</td><td width="40%" valign="bottom"><img src="/images/stepik_SQL_chebotar.t.jpeg"></td></tr>
+   SQL Trainer 2023</td><td width="40%" valign="bottom"><img src="/images/stepik_SQL_chebotar.t.jpeg"></td></tr>
    </tr>
   </table>
   </br>
