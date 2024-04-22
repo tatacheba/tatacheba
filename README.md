@@ -23,26 +23,15 @@ Commercial experience in testing since July 2019.
      <a target="_blank" href="https://itgid.info">www.itgid.info</a>.</br>
     JavaScript, Node.JS, React.JS</br> 
      <td width="30%" style="display: flex; flex-wrap: wrap;">
-    <div style="width: 50%;">
+    <div style="width: 100%;">
         <a href="https://itgid.info/ru/certificate/view?Certificate[uid]=6vn1n39qwky1" target="_blank">
-            <img src="/images/js_itgid.info.png" width="50">
-        </a>
-        <a href="https://itgid.info/ru/certificate/view?Certificate[uid]=5f1u8vs5mu25" target="_blank"> 
-            <img src="/images/js_function_itgid.info.png" width="50">
-        </a>
-        <a href="https://itgid.info/ru/certificate/view?Certificate[uid]=yszqx1dfy9f2" target="_blank">
-            <img src="/images/js_oop_itgid.info.png" width="50">
-        </a>
-    </div>
-    <div style="width: 50%;">
-        <a href="https://itgid.info/ru/certificate/view?Certificate[uid]=59yhqxn1mt" target="_blank">
-            <img src="/images/js_array_itgid.info.png" width="50">
-        </a>
-        <a href="https://itgid.info/ru/certificate/view?Certificate[uid]=tjp7reqwd1ej" target="_blank">
-            <img src="/images/nodeJS_itgid.info.png" width="50">
+            <img src="/images/js_itgid.info.png" width="30%">
+        </a>         
+              <a href="https://itgid.info/ru/certificate/view?Certificate[uid]=tjp7reqwd1ej" target="_blank">
+            <img src="/images/nodeJS_itgid.info.png" width="30%">
         </a>
         <a href="https://itgid.info/ru/certificate/view?Certificate[uid]=1a4k7azy5ts3" target="_blank">
-            <img src="/images/react_itgid.info.png" width="50">
+            <img src="/images/react_itgid.info.png" width="30%">
         </a>
     </div>
 </td>
