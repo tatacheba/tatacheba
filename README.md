@@ -7,13 +7,13 @@ Commercial experience in testing since July 2019.
 <table width="100%" border='0'>
     <tr> 
     <td valign="middle">St. Petersburg University of Film and Television.</td>
-    <td width="40%" valign="bottom"><img src="/images/kit.png"></td>
+    <td width="30%" valign="bottom"><img src="/images/kit.png"></td>
     </tr>
     <tr>
     <td valign="middle">Geekbrains</br>
     Software testing 2019</br> 
      </td>
-     <td width="40%">
+     <td width="30%">
           <img src="/images/certificate_chebotar.t_testing.jpeg">
           <img src="/images/certificate_chebotar.t_automationt.jpeg">
      </td>
@@ -22,19 +22,17 @@ Commercial experience in testing since July 2019.
      <td valign="middle">ITGit.info 
      <a target="_blank" href="https://itgid.info">www.itgid.info</a>.</br>
     JavaScript 2022, Node.JS 2023, React.JS 2024</br> 
-     <td width="40%" style="display: flex; flex-wrap: wrap;">
-    <div style="width: 100%;">
+     <td width="30%" style="display: flex; flex-wrap: wrap;">
         <a href="https://itgid.info/ru/certificate/view?Certificate[uid]=6vn1n39qwky1" target="_blank">
-            <img src="/images/js_itgid.info.png" width="30%">
+            <img src="/images/js_itgid.info.png" width="100%">
         </a>         
               <a href="https://itgid.info/ru/certificate/view?Certificate[uid]=tjp7reqwd1ej" target="_blank">
-            <img src="/images/nodeJS_itgid.info.png" width="30%">
+            <img src="/images/nodeJS_itgid.info.png" width="100%">
         </a>
         <a href="https://itgid.info/ru/certificate/view?Certificate[uid]=1a4k7azy5ts3" target="_blank">
-            <img src="/images/react_itgid.info.png" width="30%">
+            <img src="/images/react_itgid.info.png" width="100%">
         </a>
-    </div>
-</td>
+   </td>
     <tr><td valign="middle">QA.GURU <a target="_blank" href="https://qa.guru">qa.guru</a>.</br>
      QA Automation 2022</td><td width="30%" valign="bottom"><img src="/images/chebotar.t_qa.guru.jpg"></td></tr>
    </tr>
