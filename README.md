@@ -34,7 +34,7 @@ Commercial experience in testing since July 2019.
         </a>
    </td>
     <tr><td valign="middle">QA.GURU <a target="_blank" href="https://qa.guru">qa.guru</a>.</br>
-     QA Automation 2022</td><td width="30%" valign="bottom"><img src="/images/chebotar.t_qa.guru.jpg"></td></tr>
+     QA Automation 2022</td><td width="20%" valign="bottom"><img src="/images/chebotar.t_qa.guru.jpg"></td></tr>
    </tr>
    <tr><td valign="middle">STEPIK.org <a target="_blank" href="https://stepik">www.stepik.org</a>.</br>
    SQL Trainer 2023</td><td width="20%" valign="bottom">    <a href="https://stepik.org/cert/1927665" target="_blank"><img src="/images/stepik_SQL_chebotar.t.jpeg">  </a> </td></tr>
