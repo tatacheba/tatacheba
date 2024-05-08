@@ -7,13 +7,13 @@ Commercial experience in testing since July 2019.
 <table width="100%" border='0'>
     <tr> 
     <td valign="middle">St. Petersburg University of Film and Television.</td>
-    <td width="30%" ><img src="/images/kit.png"></td>
+    <td width="20%" ><img src="/images/kit.png"></td>
     </tr>
     <tr>
     <td valign="middle">Geekbrains</br>
     Software testing 2019</br> 
      </td>
-     <td width="30%">
+     <td width="20%">
           <img src="/images/certificate_chebotar.t_testing.jpeg">
           <img src="/images/certificate_chebotar.t_automationt.jpeg">
      </td>
@@ -22,7 +22,7 @@ Commercial experience in testing since July 2019.
      <td valign="middle">ITGit.info 
      <a target="_blank" href="https://itgid.info">www.itgid.info</a>.</br>
     JavaScript 2022, Node.JS 2023, React.JS 2024</br> 
-     <td width="30%" style="display: flex; flex-wrap: wrap;">
+     <td width="20%" style="display: flex; flex-wrap: wrap;">
         <a href="https://itgid.info/ru/certificate/view?Certificate[uid]=6vn1n39qwky1" target="_blank">
             <img src="/images/js_itgid.info.png" width="100%">
         </a>         
@@ -37,7 +37,7 @@ Commercial experience in testing since July 2019.
      QA Automation 2022</td><td width="30%" valign="bottom"><img src="/images/chebotar.t_qa.guru.jpg"></td></tr>
    </tr>
    <tr><td valign="middle">STEPIK.org <a target="_blank" href="https://stepik">www.stepik.org</a>.</br>
-   SQL Trainer 2023</td><td width="30%" valign="bottom">    <a href="https://stepik.org/cert/1927665" target="_blank"><img src="/images/stepik_SQL_chebotar.t.jpeg">  </a> </td></tr>
+   SQL Trainer 2023</td><td width="20%" valign="bottom">    <a href="https://stepik.org/cert/1927665" target="_blank"><img src="/images/stepik_SQL_chebotar.t.jpeg">  </a> </td></tr>
    </tr>
   </table>
   </br>
